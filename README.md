@@ -10,3 +10,6 @@ Devices take data from sensors to build a picture of the environment around them
 ### Study Cases
 * Laser Scanner with SLAM 
 * Gmapping
+
+### More Study Cases
+*  Rotary encoder and how they work?
