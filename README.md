@@ -17,13 +17,14 @@ Devices take data from sensors to build a picture of the environment around them
   * Software requirements(steps):
     * First we installed Windows Subsystem for Linux (WSL) for running linux binary executables on windows 10.
     * Then we wrote the command sudo apt install git in the ubuntu command prompt to install the git.
-    * Then we clone the openslam_gmapping repo into our pc using the command git clone (repo url). After that we entered openslam_gmapping folder and run ./configure script for execution.
+    * Then we clone the openslam_gmapping repo into our pc using the command git clone (repo url). After that we entered openslam_gmapping folder and run ./configure script for execution.It is now in progress for installation.
     * Next run the command sudu apt update to updating repositories to get information on the newest versions of packages and their dependencies.
     * After that we installed the compiler using the command sudu apt-get install build-essential.
     * Then run the command apt-get install qt5-default to get Qt5 development defaults packages.
     * After that install firefox using the command sudu apt install firefox and also run ./configure for execution.
     * Next we downloaded qt3 that is qt-x11-free-3.3.8.tar.bz2 using the command wget (url) and then extract the file using the command tar xvfj (archivename).
-    * Next we will be download and install carmen (Carnegie Mellon Robot Navigation Toolkit).
+    * Next we have download and installed carmen (Carnegie Mellon Robot Navigation Toolkit).For that we had to correct a lots of errors.
+    
     
     
   * SLAM Process (Consist of number of steps):
