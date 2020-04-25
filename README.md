@@ -24,6 +24,7 @@ Devices take data from sensors to build a picture of the environment around them
     * After that install firefox using the command sudu apt install firefox and also run ./configure for execution.
     * Next we downloaded qt3 that is qt-x11-free-3.3.8.tar.bz2 using the command wget (url) and then extract the file using the command tar xvfj (archivename).
     * Next we have download and installed carmen (Carnegie Mellon Robot Navigation Toolkit).For that we had to correct a lots of errors.
+    * Installation of Openslam_gmapping is complete and running the simulation using online laser data is comleted.
     
     
     
